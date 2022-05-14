@@ -1,0 +1,51 @@
+body {
+  background-color: #ff9770;
+  font-family: "COCOGOOSE", sans-serif;
+  color: aliceblue;
+}
+
+.canvas {
+  background-color: #ffd670;
+  border-radius: 1rem;
+}
+
+.kotak {
+  width: 570px;
+  height: 160px;
+  background-color: aliceblue;
+  margin: auto;
+}
+footer {
+  bottom: 0px;
+  left: 0px;
+  position: absolute;
+  right: 0px;
+  background-color: #70d6ff;
+  height: 50px;
+  position: fixed;
+}
+.btnn {
+  width: 100px;
+  height: 100px;
+}
+.navbar {
+  background-color: #70d6ff;
+}
+.foto-atas {
+  width: 100%;
+  /* margin-right: auto; */
+}
+.foto-maul {
+  width: 20%;
+}
+.judul-gif {
+  width: 20%;
+}
+.spotify {
+  width: 50%;
+}
+.hbd {
+  border-radius: 0.9rem;
+  border: 4px solid #70d6ff;
+  background-color: #ff70a6;
+}
